@@ -1,0 +1,10 @@
+{"Blue (Munsell)":"0892a5",
+"Dark cyan":"06908f",
+"Light sea green":"0ca4a5",
+"Air Force blue":"52829f","Pomp and Power":"985f99",
+"Chinese Violet":"855d85",
+"Chinese Violet 2":"7c5c7b",
+"Chinese Violet 3":"725a70"}
+
+['#0892A5', '#06908F', '#0CA4A5', '#52829F', '#985F99', '#855D85', '#7C5C7B', '#725A70']
+['#3a2e39', '#1e555c', '#f4d8cd', '#edb183', '#f15152']
